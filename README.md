@@ -1,4 +1,4 @@
-# 🛒 Carrito de Compras con Objeto y Template
+# 🛒 Carrito de Compras con Objeto, Template y Fragment
 
 ## 📚 Proyecto con Fines Educativos
 
@@ -84,7 +84,7 @@ btns.forEach((btn) => btn.addEventListener("click", agregarCarrito));
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/HenryMJL/carrito-de-compras.git
+   git clone https://github.com/HenryMJL/Carrito_Compra-Objeto-Template-Fragment-
    ```
 
 2. Abre el archivo `index.html` en tu navegador.
